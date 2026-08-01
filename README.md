@@ -1,6 +1,5 @@
 # Proyecto Clase Libro - Programación Orientada a Objetos en C++
 
-## Información del estudiante
 
 **Nombre:** [EDWARD ALBERTO MOREL RAMIREZ]
 **Matrícula:** [2025-1672]
